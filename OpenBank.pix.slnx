@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OpenBank.API/OpenBank.API.csproj" />
+    <Project Path="src/OpenBank.Application/OpenBank.Application.csproj" />
+    <Project Path="src/OpenBank.Domain/OpenBank.Domain.csproj" />
+    <Project Path="src/OpenBank.Infrastructure/OpenBank.Infrastructure.csproj" />
+  </Folder>
+</Solution>
