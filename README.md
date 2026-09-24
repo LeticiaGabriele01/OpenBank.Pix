@@ -30,6 +30,16 @@ API de alto desempenho simulando o motor transacional de um sistema bancário e 
 - **Containerização:** Docker & Docker Compose
 
 ---
+## 📐 System Architecture & Diagrams
+
+Explore the detailed architectural specifications and transactional workflows in our documentation folder:
+
+| Document | Description | Link |
+| :--- | :--- | :--- |
+| **Clean Architecture** | Layer interaction and dependency rules | [📄 View Diagram](./docs/architecture.md) |
+| **Pix Transfer Flow** | Idempotency, pessimistic locking & sequence execution | [📄 View Diagram](./docs/pix-transfer-flow.md) |
+
+---
 
 ## 🏗️ Arquitetura do Sistema
 
